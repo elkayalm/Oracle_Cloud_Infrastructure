@@ -1,4 +1,4 @@
-# OCI_Block_Storage
+# Block_Storage_Attached.py
 This script is developed to get all volumes available in all regions, get all volumes attached to instances and then starts to matchup both together. 
 
 The main purpose behind this script is to make sure that there are no unattached volumes, as in most cases when they are unattached they are not used so it is a good way to manage OCI.
