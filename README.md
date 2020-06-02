@@ -7,11 +7,13 @@ This is just a reporting script that gives a list of all unattached volumes, the
 
 # psm&oci_resources.py
 The script is designed to work with two CSVs files in which it will combine both of them into a new excel sheet. 
+
 The script does few operations on the files sequentially as the following:
 1.	Convert the two CSVs files into excel 
 2.	Create new sheets on the original excel file 
 3.	Copy the data from both files and add it to the original file
 4.	Add AutoFilters to all columns 
-5.	Add column AutoFit   
+5.	Add column AutoFit
+
 This way a report will be automatically created and can be used directly without the need to do any manual changes. 
 
