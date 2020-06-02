@@ -17,3 +17,7 @@ The script does few operations on the files sequentially as the following:
 
 This way a report will be automatically created and can be used directly without the need to do any manual changes. 
 
+
+# DRG_list.py
+
+The script loops through all the regions and compartments available in a tenancy and produces a list of all Dynamic Routing Gateways(DRGs) that are available. 
