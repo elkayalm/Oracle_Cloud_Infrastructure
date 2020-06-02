@@ -20,4 +20,4 @@ This way a report will be automatically created and can be used directly without
 
 # DRG_list.py
 
-The script loops through all the regions and compartments available in a tenancy and produces a list of all Dynamic Routing Gateways(DRGs) that are available. 
+The script loops through all regions and compartments available in a tenancy and produces a list of all Dynamic Routing Gateways(DRGs) that are available. 
