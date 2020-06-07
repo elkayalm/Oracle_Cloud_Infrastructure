@@ -58,7 +58,7 @@ def column_autofit(sheetname):
     for i in column_notation:
         column_length = []
 
-        # Check if a header exists or not
+        # Check if the header exists or not
         if ws[f"{i}1"].value != None:
             for cell in ws[i]:
                 try:
